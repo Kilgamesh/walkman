@@ -33,6 +33,7 @@ a:hover {
 	color: hsl(164, 65%, 61%)
 }
 input {
+	width: 100%;
 	font-size: inherit;
 	font-weight: 300;
 	padding: 0.5rem 0;
@@ -52,11 +53,11 @@ input:focus {
 	min-height: 100vh;
 	gap: 1.5rem;
 	line-height: 1.5;
-	padding: 2rem;
+	padding: 1.5rem 2rem;
 	font-weight: 300;
 }
 .header {
-	max-width: 650px;
+	max-width: 600px;
 	margin: 0 auto 1rem;
 }
 .sketch div {
