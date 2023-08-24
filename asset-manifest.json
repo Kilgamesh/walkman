@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/walkman/static/css/main.872715aa.css",
-    "main.js": "/walkman/static/js/main.886efdcc.js",
+    "main.css": "/walkman/static/css/main.23d8a6ae.css",
+    "main.js": "/walkman/static/js/main.e8ea07e7.js",
     "index.html": "/walkman/index.html",
-    "main.872715aa.css.map": "/walkman/static/css/main.872715aa.css.map",
-    "main.886efdcc.js.map": "/walkman/static/js/main.886efdcc.js.map"
+    "main.23d8a6ae.css.map": "/walkman/static/css/main.23d8a6ae.css.map",
+    "main.e8ea07e7.js.map": "/walkman/static/js/main.e8ea07e7.js.map"
   },
   "entrypoints": [
-    "static/css/main.872715aa.css",
-    "static/js/main.886efdcc.js"
+    "static/css/main.23d8a6ae.css",
+    "static/js/main.e8ea07e7.js"
   ]
 }
