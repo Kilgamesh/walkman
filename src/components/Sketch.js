@@ -28,7 +28,7 @@ function Sketch() {
 		let nameField = p.createInput();
 		nameField.attribute("placeholder", "Solid Snake");
 		let generateButton = p
-			.createButton("Generate Walk")
+			.createButton("Generate")
 			.class("btn generate");
 		
 		let walkDisplay = p.createDiv();
